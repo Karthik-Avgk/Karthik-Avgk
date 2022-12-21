@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Karthik-Avgk
+- 👀 I’m interested in Digital Circuit Design
+- 🌱 I’m currently learning Verilog HDL, SystemVerilog, PERL, UVM.
+- 💞️ I’m looking to collaborate on [nothing yet]
